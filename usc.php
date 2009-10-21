@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: xxxxx
+Plugin Name: Failure
 Plugin URI: 
-Description: Welcart builds the management system with a net shop on Wordpress.
+Description: Sorry, I made a mistake.
 Version: 0.1.1
 Author: USconsort
 Author URI: 
