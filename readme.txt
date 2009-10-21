@@ -3,7 +3,7 @@ Contributors: USconsort
 Tags: widgets, user, Post, plugin, calendar, admin, manage, shopping cart
 Requires at least: 2.8
 Tested up to: 2.8.4
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 
 Welcart
 
