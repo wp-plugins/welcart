@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: USconsort
+Contributors: nobody
 Tags: widgets
 Requires at least: 2.8
 Tested up to: 2.8.4
